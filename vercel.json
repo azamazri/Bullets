@@ -8,8 +8,5 @@
   ],
   "redirects": [
     { "source": "/gallery", "destination": "/courses", "statusCode": 301 }
-  ],
-  "errorPages": {
-    "404": "/404.html"
-  }
+  ]
 }
